@@ -52,3 +52,5 @@ Included visualizations to evaluate model performance and residuals:
 1. Actual vs Predicted Prices (Scatter plot)
 2. Distribution of Residuals (Histogram)
 3. Feature Importance (Bar plot)
+
+This project is part of a competition on Kaggle.
